@@ -1,0 +1,22 @@
+.group {
+    display: flex;
+    align-items: center;
+    padding: 2rem;
+  }
+  
+  .imageContainer {
+    flex: 1;
+    padding: 1rem;
+  }
+  
+  .imageContainer img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+  }
+  
+  .description {
+    flex: 2;
+    padding: 1rem;
+  }
+  
