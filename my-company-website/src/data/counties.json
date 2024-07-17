@@ -1,0 +1,20 @@
+[
+    { "id": 1, "name": "Powiat 1", "regionId": 1 },
+    { "id": 2, "name": "Powiat 2", "regionId": 1 },
+    { "id": 3, "name": "Powiat 3", "regionId": 1 },
+   
+    { "id": 30, "name": "Powiat 30", "regionId": 1 },
+    { "id": 31, "name": "Powiat 31", "regionId": 2 },
+    { "id": 32, "name": "Powiat 32", "regionId": 2 },
+ 
+    { "id": 56, "name": "Powiat 56", "regionId": 2 },
+    { "id": 57, "name": "Powiat 57", "regionId": 3 },
+    { "id": 58, "name": "Powiat 58", "regionId": 3 },
+
+    { "id": 82, "name": "Powiat 82", "regionId": 3 },
+    { "id": 83, "name": "Powiat 83", "regionId": 4 },
+    { "id": 84, "name": "Powiat 84", "regionId": 4 },
+
+    { "id": 100, "name": "Powiat 100", "regionId": 4 }
+  ]
+  
